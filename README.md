@@ -19,8 +19,7 @@
 - [수학 데이터(자체 제작)](https://huggingface.co/datasets/Envy1025/mathdata)
 ---
 ### 사용 모델
-- [gemma-2-2b-bnb-4bit](unsloth/gemma-2-2b-bnb-4bit](https://huggingface.co/unsloth/gemma-2-2b-bnb-4bit)])
-- 
+- [gemma-2-2b-bnb-4bit (Unsloth의 gemma-2-2b-bnb-4bit)](https://huggingface.co/unsloth/gemma-2-2b-bnb-4bit)
 ---
 ### 사용 기법
 - [Continued Pre-Training (Unsloth의 UnslothTrainer)](https://devocean.sk.com/blog/techBoardDetail.do?ID=166285&boardType=techBlog)
