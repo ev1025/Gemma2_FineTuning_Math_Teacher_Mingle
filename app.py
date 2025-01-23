@@ -19,7 +19,7 @@ prompt_template = ChatPromptTemplate.from_messages(
         ("user", "{question}\n"),
     ]
 )
-
+    
 @cl.on_chat_start
 async def main():
     # Hugging Face 엔드포인트 LLM 초기화
@@ -31,7 +31,7 @@ async def main():
     )
 
     # LLM 체인 생성
-    llm_chain = LLMChain(llm=llm, prompt=prompt_template, verbose=True)
+    llm_chain = LLMChain(llm=llm, prompt=prompt_template, verbose=True) # 설명
 
     # 사용자 세션에 LLM 체인 저장
     cl.user_session.set("llm_chain", llm_chain)
