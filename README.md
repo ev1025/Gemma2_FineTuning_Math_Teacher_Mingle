@@ -26,3 +26,7 @@
 ---
 ### UI 구현 - Chainlit
 [<img src ="https://github.com/user-attachments/assets/64ca578b-a4f0-4a4f-b876-bce21b5db1a6" width ="600">](https://chainlit.io/)
+
+<img src ="https://github.com/user-attachments/assets/9bcaee06-dbe6-4054-acc1-783dcdb987df" width ="600">
+<img src ="https://github.com/user-attachments/assets/8afcbf08-a187-471f-9b66-69c3c460cec0" width ="600">
+
