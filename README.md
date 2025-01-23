@@ -25,4 +25,4 @@
 - [Continued Pre-Training (Unsloth의 UnslothTrainer)](https://devocean.sk.com/blog/techBoardDetail.do?ID=166285&boardType=techBlog)
 ---
 ### UI 구현 - Gradio
-[<img src ="https://velog.velcdn.com/images/oka1313/post/5a89c960-1bdb-47ce-bf54-20758518b3a7/image.png" width ="600">](https://www.gradio.app/guides/quickstart)
+[<img src ="https://github.com/user-attachments/assets/64ca578b-a4f0-4a4f-b876-bce21b5db1a6" width ="600">](https://chainlit.io/)
