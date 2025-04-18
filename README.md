@@ -1,5 +1,4 @@
 # Math Teacher Mingle with gemma2
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/gemma_sprint_notebook.ipynb)
 
 
 <img src="https://huggingface.co/blog/assets/gemma2/thumbnail.jpg" width ="600" >
